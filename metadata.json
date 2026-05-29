@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Calculate with ai ",
+  "description": "An interactive scientific calculator and unit converter with step-by-step AI-powered problem solving and explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
